@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Websites with bad clickbait",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -33,7 +33,10 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 3,
-    "versionPublish": "4.10.10"
+    "versionPublish": "4.10.10",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/g43-eye-slip-hook-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
